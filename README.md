@@ -12,6 +12,10 @@
 
 [**View CV**](SangminleeCV.pdf) · [**View Portfolio**](SangminleePortfolio.pdf) · [**Contact Me**](mailto:leesm.exe@kaist.ac.kr)
 
+**Open to research opportunities · Available to start in February 2027**
+
+*Available for interviews and discussions now.*
+
 </div>
 
 ## About Me
