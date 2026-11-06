@@ -7,10 +7,10 @@
 *Brain-inspired AI · Continual Learning · Synaptic Metaplasticity*
 
 [![Email](https://img.shields.io/badge/Email-KAIST-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:leesm.exe@kaist.ac.kr)
-[![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-8B1E3F?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./SangminleeCV.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-2F6F6D?style=flat-square&logo=readthedocs&logoColor=white)](./SangminleePortfolio.pdf)
+[![Curriculum Vitae](https://img.shields.io/badge/CV-PDF-8B1E3F?style=flat-square&logo=adobeacrobatreader&logoColor=white)](SangminleeCV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-2F6F6D?style=flat-square&logo=readthedocs&logoColor=white)](SangminleePortfolio.pdf)
 
-[**View CV**](./SangminleeCV.pdf) · [**View Portfolio**](./SangminleePortfolio.pdf) · [**Contact Me**](mailto:leesm.exe@kaist.ac.kr)
+[**View CV**](SangminleeCV.pdf) · [**View Portfolio**](SangminleePortfolio.pdf) · [**Contact Me**](mailto:leesm.exe@kaist.ac.kr)
 
 </div>
 
