@@ -39,9 +39,6 @@ Investigating methods that selectively stabilize important model parameters whil
 - **Activity-dependent importance:** exploring neuron-activity-informed measures of parameter importance
 - **Stability–plasticity trade-off:** assessing how different stabilization strategies affect learning and retention
 
-### Experimental Evaluation
-
-Evaluating continual learning methods through sequential vision-learning tasks, including **MNIST** and **CIFAR**, and exploring class/domain shifts. Comparisons include regularization-based and replay-based approaches.
 
 ## Academic Highlights
 
@@ -49,7 +46,7 @@ Evaluating continual learning methods through sequential vision-learning tasks, 
 - **2 paper awards** and **1 presentation award**
 - Experience taking research ideas from hypothesis through implementation and experimental analysis
 
-> Full publication details and award information: [CV](./SangminleeCV.pdf) · [Portfolio](./SangminleePortfolio.pdf)
+> Full publication details and award information: [CV](SangminleeCV.pdf) · [Portfolio](SangminleePortfolio.pdf)
 
 ## Education & Experience
 
@@ -68,10 +65,10 @@ Evaluating continual learning methods through sequential vision-learning tasks, 
 
 ## Publications & Selected Projects
 
-A detailed publication and project list is available in my [CV](./SangminleeCV.pdf) and [portfolio](./SangminleePortfolio.pdf). Links to individual papers and public repositories can be added here as they become available.
+A detailed publication and project list is available in my [CV](SangminleeCV.pdf) and [portfolio](SangminleePortfolio.pdf). Links to individual papers and public repositories can be added here as they become available.
 
 ## Contact
 
 - **Academic email:** [leesm.exe@kaist.ac.kr](mailto:leesm.exe@kaist.ac.kr)
-- **CV:** [SangminleeCV.pdf](./SangminleeCV.pdf)
-- **Portfolio:** [SangminleePortfolio.pdf](./SangminleePortfolio.pdf)
+- **CV:** [SangminleeCV.pdf](SangminleeCV.pdf)
+- **Portfolio:** [SangminleePortfolio.pdf](SangminleePortfolio.pdf)
